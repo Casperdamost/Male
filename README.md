@@ -1,3 +1,3 @@
 # Male
-Casperdamost 
-NUMBER_ONE
+head jefe
+{live_n_learn}
